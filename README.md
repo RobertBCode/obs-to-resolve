@@ -28,7 +28,7 @@ This project has a **Free version** and a **Pro version** with batch conversion 
 ## Download
 
 ### Free Version
-[Download the Free Version (GitHub Release)](https://github.com/username/repo-name/releases/download/v1.0/obs_to_resolve_gui_free.zip)  
+[Download the Free Version (GitHub Release)](https://github.com/username/repo-name/releases/download/v1.0/obs_to_resolve_gui_free.zip](https://github.com/RobertBCode/obs-to-resolve/releases/tag/free))  
 
 ### Pro Version (Support **IN** Development)
 Donate via crypto to receive the Pro version:
